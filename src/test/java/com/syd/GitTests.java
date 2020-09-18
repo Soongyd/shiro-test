@@ -12,6 +12,7 @@ public class GitTests {
     @Test
     public void contextLoads() {
         System.out.println("dev第一次操作");
+        System.out.println("同事第一次操作");
     }
 
 }
